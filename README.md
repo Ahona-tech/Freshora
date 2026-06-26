@@ -1,4 +1,4 @@
-# [Project Name: e.g., Freshora or Craftetory]
+Project Name: Freshora
 
 This is a comprehensive web project developed to explore and implement modern web solutions. It focuses on [mention goal, e.g., streamlining business operations / creating an impactful digital presence].
 
